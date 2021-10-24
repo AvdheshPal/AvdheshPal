@@ -1,4 +1,4 @@
-<h1>Avdhesh Pal<h1/>
+<h1>Avdhesh Pal</h1>
 <h1 align="center">Hi 👋, I'm Avdhesh</h1>
 <h3 align="center">A passionate full stack [MERN] web developer...</h3>
 
@@ -11,7 +11,7 @@
 <a href="https://linkedin.com/in/avdhesh-pal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="avdhesh-pal/" height="30" width="40" /></a>
 <a href="https://instagram.com/avdhesh_pal_00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="avdhesh_pal_00" height="30" width="40" /></a>
 <a href="https://medium.com/@avdheshpal2201" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@avdheshpal2201" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@avdheshpal2201" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@avdheshpal2201" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/avdheshpal2201" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@avdheshpal2201" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
