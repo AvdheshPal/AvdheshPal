@@ -4,11 +4,11 @@
 
 <p style="display:flex; align-items: center"> <img src="https://img.icons8.com/color/48/000000/user-male-circle--v2.png"/> About Me </p> <p>I am a FullStack Developer and a curious person who loves to know how different things work together. I love to BUILD STUFF and connect with people smarter than me!
 When I am not smashing the keyboard, you will find me playing pubg, reading or watching netflix.
-Currently I am a student at Masai School.</p>
+</p>
 
 - 👨‍💻 Check my projects and portfolio **[Avdhesh](https://porfolio1-avdheshpal.vercel.app/)**
 
-- 🌱 I’m currently learning **Data Structures and Algorithms.**
+- 🌱 I’m currently learning **Backend and DevOps, Data Structures and Algorithms**
 
 - <p style="display:flex; align-items: center;"> <img src="https://img.icons8.com/color/18/000000/teamwork--v2.png" style="margin-right: 10px"/> I’m looking to collaborate on OpenSource Projects </p> 
 
