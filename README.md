@@ -8,7 +8,7 @@ When I am not smashing the keyboard, you will find me playing pubg, reading or w
 
 - 👨‍💻 Check my projects and portfolio **[Avdhesh](https://porfolio1-avdheshpal.vercel.app/)**
 
-- 🌱 I’m currently learning **Backend and DevOps, Data Structures and Algorithms**
+- 🌱 I’m currently learning **JavaScript, ReactJS & ReduxJS.**
 
 - <p style="display:flex; align-items: center;"> <img src="https://img.icons8.com/color/18/000000/teamwork--v2.png" style="margin-right: 10px"/> I’m looking to collaborate on OpenSource Projects </p> 
 
